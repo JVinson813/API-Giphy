@@ -1,0 +1,68 @@
+form {
+    text-align: center; 
+    color: red;
+    
+}
+
+h5{
+    color: red;
+}
+
+p{
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#Submit {
+    background-color: greenyellow;
+}
+
+#mdCard{
+    margin-top: 20vh;
+    position: sticky;
+    
+    
+}
+
+#officeCard{
+    margin-left: 136vh;
+    margin-bottom: 20px;
+    position: sticky;
+}
+
+#Ron{
+    object-fit: fill;
+}
+
+#scooter{
+    object-fit: fill;
+}
+
+
+img {
+    width: 200px;
+    height: 400px;
+    object-fit: cover;
+}
+
+
+body{
+    background-image: url(https://media0.giphy.com/media/aRZ4vTsHnyW6A/giphy.webp?cid=ecf05e47o0thikc05xoskyvdpz4ibqwzbv64kmee690s7sav&rid=giphy.webp);
+    background-size: 100%;
+}
+
+#jumbo{
+    background-image: url(https://media1.giphy.com/media/3ov9k1J6jahVhiev0Q/giphy.gif?cid=aafe1aadyf0r9i7tn0fel4ksel7d0tv753sqzn6btpyanj66&rid=giphy.gif);
+    
+    background-size: 100% 100%;
+    
+}
+
+.card {
+    background: transparent;
+}
+
+#scoots{
+    position: sticky;
+}
